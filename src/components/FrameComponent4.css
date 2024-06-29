@@ -1,0 +1,370 @@
+.heading-12,
+.image-icon3,
+.item-affordable {
+  position: relative;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.image-icon3 {
+  width: 468px;
+  border-radius: 40px;
+  max-height: 100%;
+  overflow: hidden;
+  object-fit: cover;
+}
+.heading-12,
+.item-affordable {
+  display: flex;
+  align-items: center;
+}
+.heading-12 {
+  margin: 0;
+  width: 515.1px;
+  height: 62.4px;
+  font-size: inherit;
+  line-height: 110%;
+  font-weight: 400;
+  font-family: inherit;
+}
+.item-affordable {
+  width: 385.7px;
+  height: 84px;
+  line-height: 135%;
+}
+.button1 {
+  align-self: stretch;
+  height: 48px;
+}
+.heading-1-esim-for-united-st-parent,
+.item-affordable-data-plans-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.item-affordable-data-plans-parent {
+  align-self: stretch;
+  gap: 32px;
+  font-size: 16px;
+  font-family: Manrope;
+}
+.heading-1-esim-for-united-st-parent {
+  width: 669px;
+  gap: 24px;
+}
+.button2 {
+  width: 196.2px;
+  height: 34px;
+}
+.heading-29 {
+  margin: 0;
+  width: 387.3px;
+  font-size: inherit;
+  line-height: 30.8px;
+  font-weight: 400;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.border2,
+.gb1,
+.heading-29 {
+  position: relative;
+}
+.border2 {
+  width: 16px;
+  height: 16px;
+  border-radius: 9999px;
+  border: 4px solid #3e5fff;
+  box-sizing: border-box;
+}
+.gb1 {
+  flex: 1;
+  line-height: 24px;
+}
+.data-amounts {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 1px;
+}
+.days1 {
+  height: 21px;
+  position: relative;
+  letter-spacing: 0.08em;
+  line-height: 110%;
+  text-transform: capitalize;
+  display: flex;
+  align-items: center;
+  min-width: 51px;
+}
+.plan-durations {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 8px;
+  font-size: 14px;
+  color: #6c6d75;
+}
+.empty-plan-data {
+  position: relative;
+  line-height: 24px;
+  display: inline-block;
+  min-width: 44.4px;
+  white-space: nowrap;
+}
+.data-amounts-parent,
+.item-label1 {
+  width: 51px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.item-label1 {
+  width: 215px;
+  margin: 0 !important;
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 12px;
+  background-color: #f3f7fc;
+  border: 1px solid #3e5fff;
+  box-sizing: border-box;
+  padding: 15px 17px;
+  gap: 8px;
+}
+.border3 {
+  width: 16px;
+  height: 16px;
+  border-radius: 9999px;
+  border: 1px solid #e2e2e4;
+  box-sizing: border-box;
+}
+.border3,
+.days2,
+.gb2 {
+  position: relative;
+}
+.gb2 {
+  line-height: 24px;
+  display: inline-block;
+  min-width: 46.5px;
+}
+.days2 {
+  height: 21px;
+  font-size: 14px;
+  letter-spacing: 0.08em;
+  line-height: 110%;
+  text-transform: capitalize;
+  color: #6c6d75;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  min-width: 60px;
+}
+.gb-group {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.div2 {
+  position: relative;
+  line-height: 24px;
+  display: inline-block;
+  min-width: 54.7px;
+  white-space: nowrap;
+}
+.item-label2 {
+  width: 215px;
+  margin: 0 !important;
+  position: absolute;
+  top: 294px;
+  left: 0;
+  border-radius: 12px;
+  border: 1px solid #e2e2e4;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 15px 17px;
+  gap: 8px;
+}
+.heading-2-choose-the-plan-th-parent,
+.plans-container {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.plans-container {
+  height: 429px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  position: relative;
+  gap: 12px 32px;
+  flex-shrink: 0;
+  font-size: 16px;
+  font-family: Manrope;
+}
+.heading-2-choose-the-plan-th-parent {
+  flex-direction: column;
+  gap: 32px;
+  max-width: 100%;
+  font-size: 24px;
+}
+.img,
+.img1 {
+  cursor: pointer;
+  margin: 0;
+}
+.img,
+.img-icon5,
+.img1 {
+  width: 16px;
+  height: 16px;
+  position: relative;
+}
+.activation-images,
+.activation-images-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.activation-images {
+  gap: 13px;
+}
+.activation-images-wrapper {
+  padding: 2.5px 0 0;
+}
+.well-guide-you {
+  align-self: stretch;
+}
+.if-you-dont,
+.secure-payment-guaranteed,
+.well-guide-you {
+  height: 21px;
+  position: relative;
+  letter-spacing: 0.08em;
+  line-height: 110%;
+  text-transform: capitalize;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.if-you-dont {
+  width: 559px;
+  max-width: 100%;
+}
+.secure-payment-guaranteed {
+  width: 232px;
+}
+.activation-description {
+  flex: 1;
+  flex-direction: column;
+  gap: 8px;
+  min-width: 399px;
+}
+.activation-description,
+.frame-container,
+.frame-div,
+.image-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-div {
+  width: 638px;
+  flex-direction: row;
+  gap: 8px;
+  font-size: 14px;
+  font-family: Manrope;
+}
+.frame-container,
+.image-parent {
+  gap: 48px;
+}
+.frame-container {
+  flex: 1;
+  flex-direction: column;
+  min-width: 445px;
+}
+.image-parent {
+  align-self: stretch;
+  background-color: #f7f7f7;
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: row;
+  padding: 80px 360px;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: 48px;
+  color: #000;
+  font-family: Roboto;
+}
+@media screen and (max-width: 1525px) {
+  .image-icon3 {
+    flex: 1;
+  }
+  .image-parent {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1225px) {
+  .activation-description {
+    min-width: 100%;
+  }
+  .frame-div {
+    flex-wrap: wrap;
+  }
+  .frame-container {
+    min-width: 100%;
+  }
+  .image-parent {
+    padding: 52px 180px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 850px) {
+  .heading-12 {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .heading-2-choose-the-plan-th-parent,
+  .item-affordable-data-plans-parent {
+    gap: 16px;
+  }
+  .frame-container {
+    gap: 24px;
+  }
+  .image-parent {
+    gap: 24px;
+    padding: 34px 90px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .heading-12 {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .button1 {
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+  .heading-29 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+}

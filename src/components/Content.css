@@ -1,0 +1,340 @@
+.img-icon9 {
+  height: 32px;
+  width: 32px;
+  position: relative;
+}
+.feature-items {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px;
+}
+.destinations1,
+.esim-data-plans {
+  margin: 0;
+}
+.esim-data-plans-container {
+  align-self: stretch;
+  position: relative;
+  line-height: 24px;
+  font-weight: 500;
+}
+.feature-list1 {
+  width: 225px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24px;
+}
+.frame-input {
+  margin: 0;
+  align-self: stretch;
+  height: 32px;
+}
+.available-on-ios {
+  align-self: stretch;
+  position: relative;
+  line-height: 24px;
+  font-weight: 500;
+}
+.feature-list2,
+.features {
+  display: flex;
+  align-items: flex-start;
+}
+.feature-list2 {
+  width: 225px;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0 0 24px;
+  box-sizing: border-box;
+  gap: 24px;
+}
+.features {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 20px;
+}
+.esim-plan,
+.plan-divider-icon {
+  align-self: stretch;
+  position: relative;
+}
+.esim-plan {
+  line-height: 120%;
+}
+.plan-divider-icon {
+  height: 1px;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.gb3 {
+  position: relative;
+  line-height: 19px;
+  display: inline-block;
+  min-width: 31px;
+}
+.plan-cells {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.gb4 {
+  position: relative;
+  line-height: 19px;
+  display: inline-block;
+  min-width: 31px;
+}
+.plan-cells1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.gb5 {
+  position: relative;
+  line-height: 19px;
+  display: inline-block;
+  min-width: 31px;
+}
+.plan-cells2 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.gb6 {
+  position: relative;
+  line-height: 19px;
+  display: inline-block;
+  min-width: 39px;
+}
+.plan-cells3,
+.plan-grid {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.plan-grid {
+  flex-direction: column;
+  justify-content: center;
+  gap: 19.4px;
+}
+.frame-child,
+.frame-inner,
+.frame-item,
+.group-icon {
+  width: 19.4px;
+  height: 19.4px;
+  position: relative;
+}
+.frame-parent2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+  gap: 19.4px;
+}
+.plan-options {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+  font-size: 14px;
+  color: #1d1d1d;
+  font-family: "IBM Plex Sans";
+}
+.data-packs,
+.image {
+  display: flex;
+  box-sizing: border-box;
+}
+.data-packs {
+  width: 194.3px;
+  border-radius: 9.71px;
+  background-color: #fff;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 19.4px 29px;
+  gap: 25.9px;
+}
+.image {
+  flex: 1;
+  overflow: hidden;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 30.9px 64px 31px;
+  background-image: url(/public/image2@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  min-width: 369px;
+  min-height: 553px;
+  max-width: 100%;
+}
+.heading-210,
+.still-looking-for {
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.still-looking-for {
+  width: 280.3px;
+  height: 30px;
+  line-height: 120%;
+}
+.heading-210 {
+  margin: 0;
+  align-self: stretch;
+  height: 62.4px;
+  font-size: 48px;
+  line-height: 110%;
+  font-weight: 400;
+  font-family: inherit;
+  color: #000;
+}
+.still-looking-for-a-data-plan-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 12px;
+  flex-shrink: 0;
+}
+.embark-on-a {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Manrope;
+  color: #000;
+}
+.button3 {
+  width: 256.3px;
+  height: 48px;
+}
+.choose-plan-content {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24px;
+}
+.choose-plan,
+.content,
+.image-group {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.choose-plan {
+  width: 543px;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0 0 154px;
+  box-sizing: border-box;
+  min-width: 543px;
+  min-height: 398px;
+  font-size: 18px;
+  color: #b1b1b4;
+}
+.content,
+.image-group {
+  gap: 64px;
+}
+.image-group {
+  width: 1175px;
+  flex-direction: row;
+  align-items: flex-end;
+  text-align: left;
+  font-size: 14.6px;
+  color: #262626;
+}
+.content {
+  align-self: stretch;
+  background-color: #fff;
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 80px 360px;
+  box-sizing: border-box;
+  text-align: center;
+  font-size: 16px;
+  color: #000;
+  font-family: Roboto;
+}
+@media screen and (max-width: 1325px) {
+  .features {
+    flex-wrap: wrap;
+  }
+  .image {
+    min-width: 100%;
+    min-height: auto;
+  }
+  .choose-plan {
+    flex: 1;
+    min-width: 100%;
+  }
+  .image-group {
+    flex-wrap: wrap;
+    gap: 32px;
+  }
+}
+@media screen and (max-width: 1125px) {
+  .content {
+    gap: 32px;
+    padding: 52px 180px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 800px) {
+  .heading-210 {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .image-group {
+    gap: 16px;
+  }
+  .content {
+    gap: 16px;
+    padding-left: 90px;
+    padding-right: 90px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .image {
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+  .heading-210 {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .choose-plan,
+  .content {
+    padding-bottom: 100px;
+    box-sizing: border-box;
+  }
+  .content {
+    padding-top: 34px;
+    padding-bottom: 34px;
+  }
+}

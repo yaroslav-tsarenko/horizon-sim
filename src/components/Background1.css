@@ -1,0 +1,89 @@
+.div3 {
+  width: 24.7px;
+  position: relative;
+  line-height: 22px;
+  display: flex;
+  align-items: center;
+}
+.step-2eb28dc5asvg-icon1 {
+  height: 240px;
+  width: 240px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.background16,
+.step-2eb28dc5asvg-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 32px;
+}
+.background16 {
+  background-color: #3e98b6;
+  flex-direction: column;
+  padding: 32px 32px 0;
+  gap: 32px;
+}
+.effortless-app-download1 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.effortless-app-download-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 19px;
+}
+.downloading-the-horizon1 {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Manrope;
+  text-align: center;
+}
+.background15,
+.background17 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.background17 {
+  align-self: stretch;
+  background-color: #f7f7f8;
+  padding: 32px 32px 54px;
+  gap: 16px;
+  font-size: 24px;
+  color: #000;
+}
+.background15 {
+  flex: 1;
+  border-radius: 20px;
+  background-color: #fff;
+  overflow: hidden;
+  min-width: 326px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 18px;
+  color: #6c6d75;
+  font-family: Roboto;
+}
+@media screen and (max-width: 450px) {
+  .background16 {
+    gap: 16px;
+  }
+  .effortless-app-download1 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+}

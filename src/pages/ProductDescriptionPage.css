@@ -1,0 +1,259 @@
+.heading-21 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 53px;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.before-buying-an {
+  align-self: stretch;
+  position: relative;
+  font-size: 18px;
+  line-height: 22px;
+}
+.how-it-works-content {
+  width: 1200px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24px;
+  max-width: 100%;
+}
+.empty-steps {
+  width: 44px;
+  position: relative;
+  line-height: 22px;
+  display: flex;
+  align-items: center;
+}
+.step-1f629f1easvg-icon {
+  height: 240px;
+  width: 240px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.background2,
+.step-1f629f1easvg-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 34px 0 32px;
+}
+.background2 {
+  background-color: #3e98b6;
+  flex-direction: column;
+  padding: 32.3px 31px 0;
+  gap: 31.7px;
+}
+.data-plan-selection {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 400;
+  font-family: inherit;
+}
+.horizon-sim-streamlines {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Manrope;
+}
+.background1,
+.background3 {
+  flex-direction: column;
+  align-items: flex-start;
+}
+.background3 {
+  align-self: stretch;
+  background-color: #f7f7f8;
+  display: flex;
+  justify-content: flex-start;
+  padding: 28.5px 32px;
+  gap: 16px;
+  text-align: center;
+  font-size: 24px;
+  color: #000;
+}
+.background1 {
+  flex: 1;
+  border-radius: 20px;
+  background-color: #fff;
+  overflow: hidden;
+  min-width: 326px;
+}
+.background-parent,
+.background1,
+.how-it-works-content-parent {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.background-parent {
+  width: 1200px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  gap: 52.1px;
+  font-size: 18px;
+  color: #6c6d75;
+}
+.how-it-works-content-parent {
+  align-self: stretch;
+  background-color: #fff;
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: column;
+  align-items: center;
+  padding: 80px 20px;
+  box-sizing: border-box;
+  gap: 64px;
+  text-align: left;
+  font-size: 48px;
+  color: #000;
+  font-family: Roboto;
+}
+.heading-22,
+.why-saily1 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.why-saily1 {
+  width: 108.8px;
+  height: 30px;
+  line-height: 120%;
+}
+.heading-22 {
+  margin: 0;
+  align-self: stretch;
+  height: 62.4px;
+  font-size: 48px;
+  line-height: 110%;
+  font-weight: 400;
+  font-family: inherit;
+  color: #fff;
+}
+.benefits-cards,
+.why-saily-parent {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.why-saily-parent {
+  width: 780px;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;
+}
+.benefits-cards {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 64px;
+}
+.frame-parent {
+  width: 1200px;
+  align-items: center;
+  gap: 64px;
+  max-width: 100%;
+}
+.background4,
+.frame-parent,
+.productdescriptionpage {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.background4 {
+  align-self: stretch;
+  background-color: #000;
+  align-items: center;
+  padding: 80px 20px;
+  box-sizing: border-box;
+  flex-shrink: 0;
+  max-width: 100%;
+  text-align: left;
+  font-size: 18px;
+  color: #b1b1b4;
+  font-family: Roboto;
+}
+.productdescriptionpage {
+  width: 100%;
+  position: relative;
+  background: linear-gradient(#fff, #fff), #fff;
+  overflow-y: auto;
+  align-items: flex-start;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1225px) {
+  .benefits-cards {
+    flex-wrap: wrap;
+    gap: 32px;
+  }
+  .frame-parent {
+    gap: 32px;
+  }
+}
+@media screen and (max-width: 850px) {
+  .heading-21 {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .background-parent {
+    gap: 26px;
+  }
+  .how-it-works-content-parent {
+    gap: 32px;
+    padding-top: 52px;
+    padding-bottom: 52px;
+    box-sizing: border-box;
+  }
+  .heading-22 {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .benefits-cards,
+  .frame-parent {
+    gap: 16px;
+  }
+  .background4 {
+    padding-top: 52px;
+    padding-bottom: 52px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .heading-21 {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .background2 {
+    gap: 16px;
+  }
+  .data-plan-selection {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .how-it-works-content-parent {
+    gap: 16px;
+    padding-top: 34px;
+    padding-bottom: 34px;
+    box-sizing: border-box;
+  }
+  .heading-22 {
+    font-size: 29px;
+    line-height: 32px;
+  }
+}

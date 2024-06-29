@@ -1,0 +1,123 @@
+.picture-image {
+  height: 552.5px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+  min-width: 380px;
+}
+.created-by-nexustech {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 110%;
+  font-weight: 400;
+  font-family: inherit;
+}
+.blank-line,
+.horizonsim-proudly-crafted,
+.join-the-horizonsim {
+  margin: 0;
+}
+.horizonsim-proudly-crafted-container {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Manrope;
+}
+.created-by-nexustech-solutions-parent {
+  width: 551px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20px 0;
+  box-sizing: border-box;
+  gap: 24px;
+  min-width: 551px;
+  max-width: 100%;
+}
+.picture-image-parent {
+  width: 1200px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 64px;
+  max-width: 100%;
+}
+.about-us-content,
+.aboutuspage {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.about-us-content {
+  align-self: stretch;
+  background-color: #fff;
+  overflow: hidden;
+  flex-shrink: 0;
+  align-items: center;
+  padding: 80px 20px;
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: left;
+  font-size: 48px;
+  color: #000;
+  font-family: Roboto;
+}
+.aboutuspage {
+  width: 100%;
+  position: relative;
+  background: linear-gradient(#fff, #fff), #fff;
+  overflow-y: auto;
+  align-items: flex-start;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1200px) {
+  .picture-image-parent {
+    gap: 32px;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .created-by-nexustech {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .created-by-nexustech-solutions-parent {
+    flex: 1;
+  }
+  .picture-image-parent {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 750px) {
+  .created-by-nexustech-solutions-parent {
+    min-width: 100%;
+  }
+  .picture-image-parent {
+    gap: 16px;
+  }
+  .about-us-content {
+    gap: 32px;
+    padding-top: 52px;
+    padding-bottom: 52px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .picture-image {
+    min-width: 100%;
+  }
+  .created-by-nexustech {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .about-us-content {
+    gap: 16px;
+  }
+}

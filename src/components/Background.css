@@ -1,0 +1,85 @@
+.div {
+  width: 24.7px;
+  position: relative;
+  line-height: 22px;
+  display: flex;
+  align-items: center;
+}
+.step-2eb28dc5asvg-icon {
+  height: 240px;
+  width: 240px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.background10,
+.step-2eb28dc5asvg-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 32px;
+}
+.background10 {
+  background-color: #3e98b6;
+  flex-direction: column;
+  padding: 32px 32px 0;
+  gap: 32px;
+}
+.effortless-app-download {
+  position: relative;
+  line-height: 29px;
+}
+.effortless-app-download-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 19px;
+}
+.downloading-the-horizon {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Manrope;
+  text-align: center;
+}
+.background11,
+.background9 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.background11 {
+  align-self: stretch;
+  background-color: #f7f7f8;
+  padding: 32px 32px 54px;
+  gap: 16px;
+  font-size: 24px;
+  color: #000;
+}
+.background9 {
+  flex: 1;
+  border-radius: 20px;
+  background-color: #fff;
+  overflow: hidden;
+  min-width: 276px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 18px;
+  color: #6c6d75;
+  font-family: Roboto;
+}
+@media screen and (max-width: 450px) {
+  .background10 {
+    gap: 16px;
+  }
+  .effortless-app-download {
+    font-size: 19px;
+    line-height: 23px;
+  }
+}

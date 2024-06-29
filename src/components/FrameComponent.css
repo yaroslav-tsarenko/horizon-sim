@@ -1,0 +1,99 @@
+.activate-your-esim {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 53px;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.unlock-the-power {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  font-family: Manrope;
+}
+.activate-your-esim-parent {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20px 0;
+  box-sizing: border-box;
+  gap: 12px;
+  min-width: 389px;
+  max-width: 100%;
+}
+.image-icon4 {
+  width: 552.5px;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  max-width: 100%;
+}
+.frame-parent1,
+.productdescriptionpage-inner {
+  display: flex;
+  align-items: center;
+  max-width: 100%;
+}
+.frame-parent1 {
+  width: 1200px;
+  flex-direction: row;
+  justify-content: center;
+  gap: 48px;
+}
+.productdescriptionpage-inner {
+  align-self: stretch;
+  background-color: #fff;
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 80px 20px;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: 48px;
+  color: #000;
+  font-family: Roboto;
+}
+@media screen and (max-width: 1225px) {
+  .image-icon4 {
+    flex: 1;
+  }
+  .frame-parent1 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 850px) {
+  .activate-your-esim {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .activate-your-esim-parent {
+    min-width: 100%;
+  }
+  .frame-parent1 {
+    gap: 24px;
+  }
+  .productdescriptionpage-inner {
+    gap: 32px;
+    padding-top: 52px;
+    padding-bottom: 52px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .activate-your-esim {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .productdescriptionpage-inner {
+    gap: 16px;
+  }
+}

@@ -1,0 +1,71 @@
+.sign-up {
+  width: 573px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 100px 0 0;
+  box-sizing: border-box;
+  min-width: 573px;
+  max-width: 100%;
+}
+.background-icon1 {
+  height: 896px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+  min-width: 624px;
+}
+.page-body,
+.signuppage {
+  display: flex;
+  justify-content: flex-start;
+}
+.page-body {
+  width: 1747.5px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 0 0 20px;
+  box-sizing: border-box;
+  gap: 194.5px;
+  max-width: 100%;
+}
+.signuppage {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  overflow: hidden;
+  flex-direction: column;
+  align-items: flex-end;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1400px) {
+  .sign-up {
+    flex: 1;
+  }
+  .page-body {
+    flex-wrap: wrap;
+    gap: 97px;
+  }
+}
+@media screen and (max-width: 825px) {
+  .sign-up {
+    padding-top: 65px;
+    box-sizing: border-box;
+  }
+  .background-icon1,
+  .sign-up {
+    min-width: 100%;
+  }
+  .page-body {
+    gap: 49px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .page-body {
+    gap: 24px;
+  }
+}

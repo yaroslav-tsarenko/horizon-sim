@@ -1,0 +1,249 @@
+.sign-up-to,
+.sign-up1 {
+  align-self: stretch;
+  position: relative;
+}
+.sign-up1 {
+  margin: 0;
+  font-size: inherit;
+  line-height: 53px;
+  font-weight: 400;
+  font-family: inherit;
+  white-space: nowrap;
+}
+.sign-up-to {
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Manrope;
+  color: #1c1c1c;
+}
+.sign-in-content1 {
+  width: 319px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.email-country-password,
+.name-address-fields {
+  border: 0;
+  background-color: transparent;
+  height: 40px;
+  flex: 1;
+  font-family: Manrope;
+  font-size: 16px;
+  color: #000;
+  min-width: 159px;
+}
+.name-address-username {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 11px;
+}
+.country1,
+.name-address-username-child {
+  font-size: 16px;
+  font-family: Manrope;
+  color: #000;
+}
+.name-address-username-child {
+  border: 0;
+  background-color: transparent;
+  height: 40px;
+  flex: 1;
+  min-width: 159px;
+}
+.country1 {
+  position: relative;
+  line-height: 22px;
+  text-align: center;
+  display: inline-block;
+  min-width: 61px;
+}
+.email-country-input {
+  height: 16px;
+  width: 16px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.country-parent {
+  flex: 1;
+  border-radius: 4px;
+  background-color: #fff;
+  border: 1px solid #d1d1d1;
+  box-sizing: border-box;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 7px 11px;
+  min-width: 159px;
+  gap: 20px;
+}
+.name-address-username1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 11px;
+}
+.username1 {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Manrope;
+  color: #000;
+  text-align: center;
+  display: inline-block;
+  min-width: 77px;
+}
+.name-address-input {
+  height: 16px;
+  width: 16px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.username-parent {
+  flex: 1;
+  border-radius: 4px;
+  background-color: #fff;
+  border: 1px solid #d1d1d1;
+  box-sizing: border-box;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 7px 11px;
+  min-width: 159px;
+  gap: 20px;
+}
+.password1 {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Manrope;
+  color: #000;
+  text-align: center;
+  display: inline-block;
+  min-width: 72px;
+}
+.frame-child {
+  height: 16px;
+  width: 16px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.password-parent {
+  flex: 1;
+  border-radius: 4px;
+  background-color: #fff;
+  border: 1px solid #d1d1d1;
+  box-sizing: border-box;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 7px 11px;
+  min-width: 159px;
+  gap: 20px;
+}
+.name-address-username2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 11px;
+}
+.button6 {
+  align-self: stretch;
+  height: 54px;
+}
+.form-fields {
+  margin: 0;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 11px;
+}
+.or-sign-up {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  font-family: Manrope;
+  display: inline-block;
+  min-width: 110px;
+}
+.social-buttons-icon,
+.social-buttons-icon1,
+.social-buttons-icon2 {
+  height: 45px;
+  width: 45px;
+  position: relative;
+  border-radius: 15px;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 45px;
+}
+.sign-in2,
+.social-sign-up {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 13px;
+}
+.sign-in2 {
+  align-self: stretch;
+  border-radius: 24px;
+  overflow: hidden;
+  flex-direction: column;
+  align-items: center;
+  padding: 92px 36px;
+  gap: 36px;
+  text-align: center;
+  font-size: 48px;
+  color: #000;
+  font-family: Roboto;
+}
+@media screen and (max-width: 825px) {
+  .sign-up1 {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .name-address-username,
+  .name-address-username1,
+  .name-address-username2 {
+    flex-wrap: wrap;
+  }
+  .sign-in2 {
+    gap: 18px;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .sign-up1 {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .button6 {
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+}
